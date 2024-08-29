@@ -4,7 +4,7 @@ import base64
 
 # Configuration
 API_KEY = "Yf4ebff2450b244608a9b7335710c3f24"
-# IMAGE_PATH = "YOUR_IMAGE_PATH"
+# IMAGE_PATH = "https://openaiaruni.openai.azure.com/"
 # encoded_image = base64.b64encode(open(IMAGE_PATH, 'rb').read()).decode('ascii')
 headers = {
     "Content-Type": "application/json",
